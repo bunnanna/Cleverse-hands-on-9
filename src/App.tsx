@@ -1,5 +1,7 @@
+import TaskContainer from './components/TaskContainer'
+
 function App() {
-  return <></>
+  return <TaskContainer />
 }
 
 export default App
